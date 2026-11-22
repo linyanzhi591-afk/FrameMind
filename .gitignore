@@ -1,0 +1,18 @@
+.idea/
+.DS_Store
+*.iml
+.env
+.env.*
+!.env.example
+server/target/
+client/node_modules/
+client/dist/
+mysql/data/
+mysql/logs/
+redis/data/
+qdrant/data/
+minio/data/
+# 作业文档和项目准备材料，不上传到团队仓库
+docs/assignment-02/
+project-preparation/
+ 
